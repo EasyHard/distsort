@@ -1,0 +1,2 @@
+#define CHUNK_SIZE (64*1024*1024)
+#define ITEM_SIZE (64)
